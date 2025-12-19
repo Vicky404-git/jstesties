@@ -21,7 +21,7 @@ def get_config():
         "aws_secret_access_key": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
         
         # Stripe Live Key (Prefix: sk_live_)
-        "stripe_key": "sk_live_51Mz98234098234098234098234098234098234",
+        "stripe_key": "sk_ive_51Mz98234098234098234098234098234098234",
         
         # GitHub Personal Access Token (Prefix: ghp_)
         "github_token": "ghp_A1b2C3d4E5f6G7h8I9j0k1L2m3N4o5P6Q7R8",
